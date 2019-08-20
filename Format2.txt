@@ -1,0 +1,3 @@
+NAME	ID	SALARY
+Ashish	1	30000
+Ajay	2	300000
